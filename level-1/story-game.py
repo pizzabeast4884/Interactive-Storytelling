@@ -15,7 +15,7 @@ while running:
             running = False
 
     # Fill the screen with a color
-    screen.fill((255, 255, 255))
+    screen.fill((200, 255, 200))
 
     # Update the display
     pygame.display.flip()
